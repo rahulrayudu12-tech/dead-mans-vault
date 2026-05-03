@@ -1,6 +1,6 @@
 # 💀 Dead Man's Vault
 
-**Live Demo:** [https://dead-mans-vault.vercel.app](https://dead-mans-vault.vercel.app)
+
 **version 2.0:** [https://v0-dead-man-s-vault.vercel.app/dashboard](https://v0-dead-man-s-vault.vercel.app/dashboard)
 A privacy-first, zero-knowledge application designed to securely store and automatically release sensitive information upon specific trigger conditions (death, arrest, missing status).
 
